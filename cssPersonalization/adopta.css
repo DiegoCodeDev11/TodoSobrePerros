@@ -1,0 +1,35 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    background-image: url(../public/img/bc.jpg);
+}
+
+.needs-validation {
+    margin: 0 auto;
+    padding: 20px 250px;
+    font-weight: bold;
+}
+
+.needs-validation input {
+    border-radius: 5px;
+    border: 1px solid #39c;
+    font-weight: bold;
+}
+
+h2 {
+    padding: 10px 0;
+}
+h2, .row {
+    text-align: center;
+}
+
+.row {
+    font-weight: 500;
+}
+
+label {
+    padding: 0 20px;
+    font-size: 20px;
+}
